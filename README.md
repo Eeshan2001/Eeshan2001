@@ -7,7 +7,8 @@
 
 - 👨‍💻 I’m currently learning MERN Stack.
 - Open Source Contributor 
-[![@eeshan2001's Holopin board](https://holopin.me/eeshan2001)](https://holopin.io/@eeshan2001)
+
+<img src="[![@eeshan2001's Holopin board](https://holopin.me/eeshan2001)](https://holopin.io/@eeshan2001)" width="30" height="40" />
 
 ### Connect with me:
 
