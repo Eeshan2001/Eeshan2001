@@ -1,6 +1,6 @@
 
 ## <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "15" width="29">, I'm [Eeshan](https://github.com/Eeshan2001) </h1>
-<h2 align="left">I am a Final Year Undergrad pursuing B.E in Information Technology.</h2>
+<h2 align="left">Recently Graduated from Pune University in  B.E Information Technology.</h2>
 
 <!-- To show profile views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayur1011&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur1011" /> </p> -->
